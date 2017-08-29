@@ -1,4 +1,4 @@
-# lab-3
+# Informe de Laboratorio 3 - 
 Diego Hermosilla Alfaro
 
 |te| odio| con| todo| mi| corazon| maldito| pedazo| de| mierda|
