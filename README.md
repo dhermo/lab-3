@@ -10,3 +10,6 @@ Diego Hermosilla Alfaro
 anotacion funcional= que funcion cumple
 
 estructural= es lo que hacemos
+
+
+ab initio= usando la informacion, estadisticamnete, prediccion
