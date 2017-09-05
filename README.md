@@ -47,12 +47,10 @@ Responde:
   - Algunos ORFs coinciden en en alguno que otro codon stop, y en la dirección donde se encuentran codificados, pero ninguno coincide con los largos de los genes encontrados.
   
 ¿En qué hebra están codificados?
-  - En ORFfinder se encontraron 3 en la hebra positiva y el resto en la negativa,
-¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?
+  - En ORFfinder se encontraron 3 en la hebra positiva y el resto en la negativa, mientras que en Glimmer 4 fueron encontradas en la hebra positiva y 6 en la negativa.
   
-anotacion funcional= que funcion cumple
-
-estructural= es lo que hacemos
-
-
-ab initio= usando la informacion, estadisticamnete, prediccion
+¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?
+  - Este programa trabaja por homología, utilizando datos interpolados para encontrar regiones codificantes a partir del modelo *Markov*
+ 
+Describe los resultados encontrados con respecto a los genes que encontraste con GLIMMER y ORFfinder  
+  - Luego de utilizar el blast, se encontró que todos los genes encontrados por ORFfinder y Glimmer tienen homologías con los genes de *Haemophilus influenzae*, siendo los genes predichos por Glimmer menos exactos que los de ORFfinder.  
