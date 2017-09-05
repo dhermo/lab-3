@@ -19,12 +19,15 @@ Responde:
   
 ¿Cuál es el genoma que escogiste? Adjunta la referencia.
   - Escogí el genoma de *Orcinus orca*, también conocido como la orca. La referencia es: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4644735/
-¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
-
-¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
-
-¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?  
   
+¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
+  - El N50 (contig) es de 70.300, y no se reporta el NG50.
+  
+¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
+  - Toda la secuencia *shotgun* del genoma fue generada por la plataforma *Illumina HiSeq*.
+  
+¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?  
+  - Escogí la ballena asesina, orca, *Orcinus orca*. Se reporta que tiene un cromosoma (genoma representativo) y tiene un largo de 2.372.919.875 pb. 
   
   
   
