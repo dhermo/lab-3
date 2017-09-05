@@ -30,7 +30,7 @@ Responde:
   - Escogí la ballena asesina, orca, *Orcinus orca*. Se reporta que tiene un cromosoma (genoma representativo) y tiene un largo de 2.372.919.875 pb. 
   
   
-  
+![imagen 1]()  
   
   
 anotacion funcional= que funcion cumple
