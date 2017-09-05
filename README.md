@@ -10,6 +10,26 @@ Responde:
   
 ¿Cuál es la distribución de procariontes y eucariontes secuenciados?
   - De procariontes se reportan 7.515 de bacterias y 256 arqueas, y de eucaritas se reportan 406 secuencias completadas.
+  
+¿Qué es el N50, L50, NG50?
+  - Son referencias estadísticas que evaluan la calidad del ensamblaje de la secuencia. El N50 es la mínima cantidad de contigs que representan la mitad del genoma. El L50 es el número mínimo de contigs para alcanzar el N50. Y el NG50 es lo mismo que el N50, con la diferencia de que es el 50% del genoma conocido.
+  
+¿Cuál es el propósito de calcular estas estadísticas?
+  - Estima la calidad del ensamblaje.
+  
+¿Cuál es el genoma que escogiste? Adjunta la referencia.
+  - Escogí el genoma de *Orcinus orca*, también conocido como la orca. La referencia es: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4644735/
+¿Cuál es el N50 del genoma que escogiste? ¿Y el NG50?
+
+¿Qué tipo de tecnología se uso para secuenciar el genoma que escogiste?
+
+¿Qué organismo escogiste, cuántos cromosomas tiene tu organismo y cuál es su tamaño?  
+  
+  
+  
+  
+  
+  
 anotacion funcional= que funcion cumple
 
 estructural= es lo que hacemos
