@@ -31,7 +31,24 @@ Responde:
   
   
 ![imagen 1](https://raw.githubusercontent.com/dhermo/lab-3/master/globalstatistics.jpg)  
+Imagen 1: Estadísticas globales del organismo *Orcinus orca*
+
+
+## Parte 2: Predicción de genes
+
+Responde:
+¿Cuántos ORF o genes encontró ORFfinder?
+  - ORFfinder encontró 7 ORFs
   
+¿Cuántos ORF o genes encontró Glimmer?
+  - Encontró 10 ORFs
+  
+¿Alguno de los genes predichos por estas herramientas coinciden?
+  - Algunos ORFs coinciden en en alguno que otro codon stop, y en la dirección donde se encuentran codificados, pero ninguno coincide con los largos de los genes encontrados.
+  
+¿En qué hebra están codificados?
+  - En ORFfinder se encontraron 3 en la hebra positiva y el resto en la negativa,
+¿Qué tipo de programa es GLIMMER? ¿Ab initio o por homología?
   
 anotacion funcional= que funcion cumple
 
